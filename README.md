@@ -1,4 +1,4 @@
-# my flutter task
+# Mudrika Variya Flutter Task (Tournament App)
 
 small demo app for Tournament App task. login with dummy auth API 
 
